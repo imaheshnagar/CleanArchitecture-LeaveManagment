@@ -1,0 +1,12 @@
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\bin\Debug\net7.0\LeaveManagement.Domain.deps.json
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\bin\Debug\net7.0\LeaveManagement.Domain.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\bin\Debug\net7.0\LeaveManagement.Domain.pdb
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\LeaveManagement.Domain.csproj.AssemblyReference.cache
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\LeaveManagement.Domain.AssemblyInfoInputs.cache
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\LeaveManagement.Domain.AssemblyInfo.cs
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\LeaveManagement.Domain.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\refint\LeaveManagement.Domain.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\LeaveManagement.Domain.pdb
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Domain\obj\Debug\net7.0\ref\LeaveManagement.Domain.dll
