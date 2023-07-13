@@ -27,7 +27,7 @@ namespace LeaveManagement.Application.Features.LeaveTypeDetails.Queries.GetLeave
         {
             // query the database
 
-            var leaveTypeDetail = _leaveTypeRepository.GetByIdAsync(request.Id);
+            var leaveTypeDetail = await _leaveTypeRepository.GetByIdAsync(request.Id);
 
             if (leaveTypeDetail == null)
             {

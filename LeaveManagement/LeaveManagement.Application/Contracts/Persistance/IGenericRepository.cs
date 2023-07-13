@@ -9,7 +9,7 @@ namespace LeaveManagement.Application.Contracts.Persistance
 {
     public interface IGenericRepository<T> where T : BaseEntity
     {
-        Task<IReadOnlyList<T>> GetAsync();
+        Task<List<T>> GetAsync();
 
         Task<T> GetByIdAsync(int Id);
 

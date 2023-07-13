@@ -31,7 +31,7 @@ namespace LeaveManagement.Persistance.Persistance.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task<IReadOnlyList<T>> GetAsync()
+        public async Task<List<T>> GetAsync()
         {
             return await _context.Set<T>().AsNoTracking().ToListAsync();
         }

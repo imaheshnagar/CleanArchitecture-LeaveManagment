@@ -13,6 +13,8 @@ namespace LeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveTyp
         private readonly ILeaveTypeRepository _leaveTypeRepository;
         public CreateLeaveTypeCommandValidator(ILeaveTypeRepository leaveTypeRepository)
         {
+            this._leaveTypeRepository = leaveTypeRepository;
+
             RuleFor(r=>r.Name)
                 .NotEmpty()
                 .WithMessage("{PropertyName} is required")
@@ -27,14 +29,14 @@ namespace LeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveTyp
                 .MustAsync(LeaveTypeNameUnique)
                 .WithMessage("Leave Type already exist");
 
-            this._leaveTypeRepository = leaveTypeRepository;
+   
         }
 
  
 
-        private Task<bool> LeaveTypeNameUnique(CreateLeaveTypeCommand command, CancellationToken token)
+        private async Task<bool> LeaveTypeNameUnique(CreateLeaveTypeCommand command, CancellationToken token)
         {
-            return _leaveTypeRepository.IsLeaveTypeUnique(command.Name);
+            return await _leaveTypeRepository.IsLeaveTypeUnique(command.Name);
         }
     }
 }

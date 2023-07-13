@@ -30,7 +30,7 @@ namespace LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveType
         {
             // query the database
 
-            var leaveTypes =  _leaveTypeRepository.GetAsync();
+            var leaveTypes = await _leaveTypeRepository.GetAsync();
 
             // mapper domain to dto
 
