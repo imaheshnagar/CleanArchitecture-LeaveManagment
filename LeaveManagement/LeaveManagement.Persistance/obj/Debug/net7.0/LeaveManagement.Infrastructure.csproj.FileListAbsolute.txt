@@ -1,0 +1,17 @@
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net7.0\LeaveManagement.Infrastructure.deps.json
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net7.0\LeaveManagement.Infrastructure.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net7.0\LeaveManagement.Infrastructure.pdb
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net7.0\LeaveManagement.Application.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net7.0\LeaveManagement.Domain.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net7.0\LeaveManagement.Application.pdb
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net7.0\LeaveManagement.Domain.pdb
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\LeaveManagement.Infrastructure.AssemblyInfo.cs
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\LeaveManagement.Infrastructure.csproj.CopyComplete
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\LeaveManagement.Infrastructure.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\refint\LeaveManagement.Infrastructure.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\LeaveManagement.Infrastructure.pdb
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net7.0\ref\LeaveManagement.Infrastructure.dll
