@@ -6,7 +6,7 @@ using System.ComponentModel.Design;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HR.LeaveManagement.Infrastructure.EmailService;
+using LeaveManagement.Infrastructure.EmailService;
 using LeaveManagement.Application.Contracts.Email;
 using LeaveManagement.Application.Models.Email;
 using LeaveManagement.Application.Contracts.Logging;

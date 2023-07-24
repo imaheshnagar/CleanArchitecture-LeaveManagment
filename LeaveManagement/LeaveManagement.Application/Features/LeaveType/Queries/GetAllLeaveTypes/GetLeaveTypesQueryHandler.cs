@@ -24,8 +24,6 @@ namespace LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveType
             this._Logger = Logger;
         }
 
-        
-
         public async Task<List<LeaveTypeDto>> Handle(GetLeaveTypesQuery request, CancellationToken cancellationToken)
         {
             // query the database
@@ -36,7 +34,7 @@ namespace LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveType
 
            var data =_mapper.Map<List<LeaveTypeDto>>(leaveTypes);
 
-            _Logger.LogInformation("leave types were retrived sucussfully");
+           // _Logger.LogInformation("leave types were retrived sucussfully");
 
             //return list of dto obj
             return data;

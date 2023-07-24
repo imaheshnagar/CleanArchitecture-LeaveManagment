@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Features\LeaveAllocations\Commands\" />
     <Folder Include="Features\LeaveTypeDetails\Commands\" />
   </ItemGroup>
 
