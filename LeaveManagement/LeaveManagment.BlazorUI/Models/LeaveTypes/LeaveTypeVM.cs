@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Xml.Linq;
 
-namespace LeaveManagment.BlazorUI.Models.LeaveTypes
+namespace LeaveManagement.BlazorUI.Models.LeaveTypes
 {
     public class LeaveTypeVM
     {

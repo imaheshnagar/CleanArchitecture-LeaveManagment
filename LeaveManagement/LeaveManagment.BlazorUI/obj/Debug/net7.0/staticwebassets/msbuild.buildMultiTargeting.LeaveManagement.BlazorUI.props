@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LeaveManagement.BlazorUI.props" />
+</Project>

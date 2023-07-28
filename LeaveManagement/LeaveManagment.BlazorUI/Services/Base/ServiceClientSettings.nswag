@@ -56,7 +56,7 @@
       "wrapResponseMethods": [],
       "generateResponseClasses": true,
       "responseClass": "SwaggerResponse",
-      "namespace": "LeaveManagment.BlazorUI.Services.Base",
+      "namespace": "LeaveManagement.BlazorUI.Services.Base",
       "requiredPropertiesMustBeDefined": true,
       "dateType": "System.DateTimeOffset",
       "jsonConverters": null,

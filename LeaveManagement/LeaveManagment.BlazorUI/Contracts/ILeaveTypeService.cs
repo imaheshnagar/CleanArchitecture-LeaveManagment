@@ -1,7 +1,7 @@
-﻿using LeaveManagment.BlazorUI.Models.LeaveTypes;
-using LeaveManagment.BlazorUI.Services.Base;
+﻿using LeaveManagement.BlazorUI.Models.LeaveTypes;
+using LeaveManagement.BlazorUI.Services.Base;
 
-namespace LeaveManagment.BlazorUI.Contracts
+namespace LeaveManagement.BlazorUI.Contracts
 {
     public interface ILeaveTypeService
     {

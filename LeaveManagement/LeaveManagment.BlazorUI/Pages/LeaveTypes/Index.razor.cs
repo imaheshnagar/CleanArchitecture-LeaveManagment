@@ -1,9 +1,9 @@
 //using Blazored.Toast.Services;
-using LeaveManagment.BlazorUI.Contracts;
-using LeaveManagment.BlazorUI.Models.LeaveTypes;
+using LeaveManagement.BlazorUI.Contracts;
+using LeaveManagement.BlazorUI.Models.LeaveTypes;
 using Microsoft.AspNetCore.Components;
 
-namespace LeaveManagment.BlazorUI.Pages.LeaveTypes
+namespace LeaveManagement.BlazorUI.Pages.LeaveTypes
 {
     public partial class Index
     {

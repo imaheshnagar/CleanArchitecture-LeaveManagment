@@ -9,8 +9,8 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "I:\\OutOfCz\\LeaveManagment\\LeaveManagement\\LeaveManagment.BlazorUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LeaveManagment.BlazorUI.styles.css",
-      "PackagePath": "staticwebassets\\LeaveManagment.BlazorUI.styles.css"
+      "Id": "I:\\OutOfCz\\LeaveManagment\\LeaveManagement\\LeaveManagment.BlazorUI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\LeaveManagement.BlazorUI.styles.css",
+      "PackagePath": "staticwebassets\\LeaveManagement.BlazorUI.styles.css"
     },
     {
       "Id": "I:\\OutOfCz\\LeaveManagment\\LeaveManagement\\LeaveManagment.BlazorUI\\obj\\Debug\\net7.0\\service-worker-assets.js",
@@ -93,20 +93,20 @@
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LeaveManagment.BlazorUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LeaveManagement.BlazorUI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LeaveManagment.BlazorUI.props",
-      "PackagePath": "build\\LeaveManagment.BlazorUI.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LeaveManagement.BlazorUI.props",
+      "PackagePath": "build\\LeaveManagement.BlazorUI.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LeaveManagment.BlazorUI.props",
-      "PackagePath": "buildMultiTargeting\\LeaveManagment.BlazorUI.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LeaveManagement.BlazorUI.props",
+      "PackagePath": "buildMultiTargeting\\LeaveManagement.BlazorUI.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LeaveManagment.BlazorUI.props",
-      "PackagePath": "buildTransitive\\LeaveManagment.BlazorUI.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LeaveManagement.BlazorUI.props",
+      "PackagePath": "buildTransitive\\LeaveManagement.BlazorUI.props"
     }
   ],
   "ElementsToRemove": []

@@ -1,4 +1,4 @@
-﻿namespace LeaveManagment.BlazorUI.Contracts
+﻿namespace LeaveManagement.BlazorUI.Contracts
 {
     public interface ILeaveTypeAllocationService
     {

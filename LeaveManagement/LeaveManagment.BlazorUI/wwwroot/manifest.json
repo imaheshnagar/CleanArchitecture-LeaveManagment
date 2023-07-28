@@ -1,6 +1,6 @@
 {
-  "name": "LeaveManagment.BlazorUI",
-  "short_name": "LeaveManagment.BlazorUI",
+  "name": "LeaveManagement.BlazorUI",
+  "short_name": "LeaveManagement.BlazorUI",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

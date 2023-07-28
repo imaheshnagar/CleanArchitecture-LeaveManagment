@@ -82,3 +82,7 @@ I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Api\obj\Debug\net7.0\r
 I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Api\obj\Debug\net7.0\LeaveManagement.Api.pdb
 I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Api\obj\Debug\net7.0\LeaveManagement.Api.genruntimeconfig.cache
 I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Api\obj\Debug\net7.0\ref\LeaveManagement.Api.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Api\bin\Debug\net7.0\LeaveManagement.Identity.dll
+I:\OutOfCz\LeaveManagment\LeaveManagement\LeaveManagement.Api\bin\Debug\net7.0\LeaveManagement.Identity.pdb

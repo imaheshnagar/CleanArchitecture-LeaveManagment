@@ -1,4 +1,5 @@
 using LeaveManagement.Application;
+using LeaveManagement.Identity;
 using LeaveManagement.Infrastructure;
 using LeaveManagement.Persistance.Persistance;
 
@@ -15,6 +16,7 @@ namespace LeaveManagement.Api
             builder.Services.AddApplicationServices();
             builder.Services.AddInfrastructureServices(builder.Configuration);
             builder.Services.AddPersistanceServiceRegistration(builder.Configuration);
+            builder.Services.AddIdentityServices(builder.Configuration);
 
             builder.Services.AddControllers();
 
@@ -42,6 +44,8 @@ namespace LeaveManagement.Api
             app.UseHttpsRedirection();
 
             app.UseCors();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

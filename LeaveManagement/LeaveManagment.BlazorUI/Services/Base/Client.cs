@@ -1,4 +1,4 @@
-﻿namespace LeaveManagment.BlazorUI.Services.Base
+﻿namespace LeaveManagement.BlazorUI.Services.Base
 {
     public partial class Client:IClient 
     { 
