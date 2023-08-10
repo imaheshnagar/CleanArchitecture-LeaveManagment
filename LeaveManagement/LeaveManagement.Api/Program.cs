@@ -2,6 +2,7 @@ using LeaveManagement.Application;
 using LeaveManagement.Identity;
 using LeaveManagement.Infrastructure;
 using LeaveManagement.Persistance.Persistance;
+using Serilog;
 
 namespace LeaveManagement.Api
 {
@@ -12,7 +13,11 @@ namespace LeaveManagement.Api
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
+            builder.Host.UseSerilog((context, loggerconfig) =>
+            {
+                loggerconfig.WriteTo.Console();
+                loggerconfig.ReadFrom.Configuration(context.Configuration);
+            });
             builder.Services.AddApplicationServices();
             builder.Services.AddInfrastructureServices(builder.Configuration);
             builder.Services.AddPersistanceServiceRegistration(builder.Configuration);
@@ -40,6 +45,9 @@ namespace LeaveManagement.Api
                 app.UseSwaggerUI();
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseSerilogRequestLogging();
+
 
             app.UseHttpsRedirection();
 

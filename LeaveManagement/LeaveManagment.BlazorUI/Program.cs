@@ -18,8 +18,12 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 builder.Services.AddHttpClient<IClient, Client>(client =>
 client.BaseAddress = new Uri("https://localhost:7078"));
 
+//builder.Services.AddTransient<JwtAuthorizationMessageHandler>();
+//builder.Services.AddHttpClient<IClient, Client>(client => client.BaseAddress = new Uri("https://localhost:7112"))
+//    .AddHttpMessageHandler<JwtAuthorizationMessageHandler>(); ;
+
 builder.Services.AddBlazoredLocalStorage();
-builder.Services.AddScoped<ApiAuthenticationStateProvider>();
+
 builder.Services.AddScoped<AuthenticationStateProvider, ApiAuthenticationStateProvider>();
 
 builder.Services.AddScoped<ILeaveTypeService, LeaveTypeService>();
